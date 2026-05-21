@@ -32,3 +32,8 @@ The Hall-effect sensors detect the rotor position and provide feedback to the co
 - Robotics
 - Industrial Automation
 - Drones
+## Circuit Diagram
+
+The following schematic was designed in Altium Designer.
+
+![BLDC Schematic](bldc_schematic.png)
